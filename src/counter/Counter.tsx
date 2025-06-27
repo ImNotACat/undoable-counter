@@ -50,6 +50,14 @@ export const Counter: React.FC = () => {
             Redo
             </Button>
         </HStack>
+        <HStack>
+            <Button
+                colorPalette="red" variant="outline"
+                onClick={() => dispatch({ type: 'RESET' })}
+                >
+                Reset
+            </Button>
+        </HStack>
         </VStack>
         <Toaster />
     </>
