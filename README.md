@@ -11,6 +11,8 @@ This project was built to demonstrate these key concepts:
 
 ## 🌱 DEMO
 ![App demo](./public/Undoable_Counter_GIF.gif)
+
+
 [Live demo site on Vercel](https://undoable-counter-rho.vercel.app/)
 
 ## ✨ Technologies Used
