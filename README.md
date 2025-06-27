@@ -9,13 +9,15 @@ This project was built to demonstrate these key concepts:
 - Persistent state using `localStorage`
 - Styled with Chakra UI
 
+## 🌱 DEMO
+![App demo](./public/Undoable_Counter_GIF.gif)
+[Live demo site on Vercel](https://undoable-counter-rho.vercel.app/)
+
 ## ✨ Technologies Used
 
 - React/TypeScript
 - [Chakra UI](https://chakra-ui.com/)
 - [Vite](https://vitejs.dev/)
 
-## 🌱 DEMO
-[Demo site on Vercel](https://undoable-counter-rho.vercel.app/)
 
 
