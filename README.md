@@ -15,4 +15,7 @@ This project was built to demonstrate these key concepts:
 - [Chakra UI](https://chakra-ui.com/)
 - [Vite](https://vitejs.dev/)
 
+## 🌱 DEMO
+[Demo site on Vercel](https://undoable-counter-rho.vercel.app/)
+
 
